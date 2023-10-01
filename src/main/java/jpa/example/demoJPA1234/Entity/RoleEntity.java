@@ -34,7 +34,7 @@ public class RoleEntity {
     public void setDesc(String desc) {
         this.desc = desc;
     }
-@Column(name = "name")
+@Column(name = "name_1")
     private String name;
 
     @Column(name = "description")
